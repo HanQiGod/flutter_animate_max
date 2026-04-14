@@ -25,6 +25,7 @@ StatefulWidget.
 
 _Above: The included example app._
 
+# 技术支持邮箱(1539841933@qq.com)。
 
 Duration extensions
 ----------------------------------------
